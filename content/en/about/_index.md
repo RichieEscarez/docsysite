@@ -87,7 +87,7 @@ Once you add your own content about your own project as simple Markdown or HTML,
 
 ### Make it your own
 
-You can [configure the theme](/docs/adding-content/lookandfeel/) as much or as little as you like, anything from changing the colours and images to adding your own type of [page layout](docs/adding-content/content/#content-sections-and-templates).
+You can [configure the theme](/docs/adding-content/lookandfeel/) as much or as little as you like, anything from changing the colours and images to adding your own type of [page layout](/docs/adding-content/content/#content-sections-and-templates).
 
 ### Get organized
 
